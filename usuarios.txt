@@ -1,0 +1,3 @@
+ID,Nombre,Edad,Correo
+1,Juan Pérez,30,juan@example.com
+2,Ana Gómez,25,ana@example.com

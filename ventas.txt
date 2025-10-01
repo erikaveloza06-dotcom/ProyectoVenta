@@ -1,0 +1,3 @@
+IDVenta,IDUsuario,IDProducto,Cantidad
+1001,1,101,1
+1002,2,102,2

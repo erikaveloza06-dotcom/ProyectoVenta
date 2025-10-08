@@ -1,6 +1,23 @@
-Durante el desarrollo de este proyecto aprendimos a manejar de forma práctica la lectura y escritura de archivos en Java usando las clases del paquete java.nio.file. Entendimos cómo crear, leer y organizar información en archivos de texto, algo muy útil para gestionar datos de manera automática.
-También aprendimos a estructurar mejor nuestro código separando responsabilidades en diferentes métodos y clases, como la clase GenerateInfoFiles, que nos permitió mantener el programa más ordenado y fácil de entender. Además, reforzamos el uso de estructuras como listas (ArrayList), ciclos y excepciones, lo que me ayudó a controlar errores y asegurar que el programa funcione correctamente.
-Otro aprendizaje importante fue cómo generar información simulada usando la clase Random y cómo combinarla para crear archivos relacionados, como los de usuarios, productos y ventas. Finalmente, comprendimos la importancia de automatizar procesos para ahorrar tiempo y reducir errores humanos, así como generar reportes que resumen la información de manera clara y útil.
-Este proyecto tiene muchas aplicaciones en nuestra vida profesional, ya que nos enseñó a manejar información de forma estructurada y automatizada, algo fundamental en cualquier área donde se trabaje con datos. Por ejemplo, podría aplicar lo aprendido para crear sistemas que registren clientes, productos o ventas en una empresa, facilitando el control y la organización de la información.
-También podemos usar estos conocimientos para mejorar procesos en nuestros futuros trabajos, como generar reportes automáticos o respaldos de datos sin necesidad de hacerlo manualmente. Además, comprendimos la importancia de escribir código claro y bien dividido en métodos, lo que es muy útil para trabajar en equipo y mantener proyectos grandes.
-En general, este tipo de práctica nos prepara para desempeñarnos mejor en áreas como la programación, la gestión de datos, la administración de sistemas o el desarrollo de software empresarial, donde se necesita automatizar tareas y asegurar la precisión de la información.
+Durante el desarrollo de este proyecto aprendimos a manejar de forma práctica la lectura
+y escritura de archivos en Java usando las clases del paquete java.nio.file. 
+Entendimos cómo crear, leer y organizar información en archivos de texto,
+ algo muy útil para gestionar datos de manera automática.También aprendimos a estructurar 
+mejor nuestro código separando responsabilidades en diferentes métodos y clases, 
+como la clase GenerateInfoFiles, que nos permitió mantener el programa más ordenado y fácil de entender. 
+Además, reforzamos el uso de estructuras como listas (ArrayList), ciclos y excepciones, 
+lo que me ayudó a controlar errores y asegurar que el programa funcione correctamente.
+Otro aprendizaje importante fue cómo generar información simulada usando la clase Random
+ y cómo combinarla para crear archivos relacionados, como los de usuarios, productos y ventas.
+ Finalmente, comprendimos la importancia de automatizar procesos para ahorrar tiempo y reducir errores humanos,
+ así como generar reportes que resumen la información de manera clara y útil.
+Este proyecto tiene muchas aplicaciones en nuestra vida profesional, ya que nos enseñó a manejar
+ información de forma estructurada y automatizada, algo fundamental en cualquier área donde se trabaje con datos. 
+Por ejemplo, podría aplicar lo aprendido para crear sistemas que registren clientes,
+ productos o ventas en una empresa, facilitando el control y la organización de la información.
+También podemos usar estos conocimientos para mejorar procesos en nuestros futuros trabajos, 
+como generar reportes automáticos o respaldos de datos sin necesidad de hacerlo manualmente.
+ Además, comprendimos la importancia de escribir código claro y bien dividido en métodos, 
+lo que es muy útil para trabajar en equipo y mantener proyectos grandes.
+En general, este tipo de práctica nos prepara para desempeñarnos mejor en áreas como la programación,
+ la gestión de datos, la administración de sistemas o el desarrollo de software empresarial, 
+donde se necesita automatizar tareas y asegurar la precisión de la información.
